@@ -10,3 +10,5 @@ https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-probl
 3. Optimization with PuLP in Python
 4. Optimization with Ortools in Python
 5. Optimization with Gekko in Python
+6. Optimization with Pymprog in Python
+7. Optimization with Optlang in Python
