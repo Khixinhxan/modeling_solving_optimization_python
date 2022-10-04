@@ -3,3 +3,4 @@ geneticalgorithm==1.0.2
 PuLP==2.6.0
 Pyomo==6.4.2
 ortools==9.4.1874
+gekko==1.0.5
